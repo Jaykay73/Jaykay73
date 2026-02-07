@@ -1,33 +1,147 @@
-<h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate AI/ML developer with a love for Data Science</h3>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm John Aledare</h1>
+<h3 align="center">Machine Learning Engineer | AI Research Enthusiast | Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykay73&label=Profile%20views&color=0e75b6&style=flat" alt="jaykay73" /> </p>
+<p align="center">
+  <a href="https://aledare.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@jermaine73" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/jermaine_73" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:jermainealedare@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaykay73" alt="jaykay73" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaykay73&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/jermaine_73" target="blank"><img src="https://img.shields.io/twitter/follow/jermaine_73?logo=twitter&style=for-the-badge" alt="jermaine_73" /></a> </p>
+---
 
-- 👨‍💻 All of my projects are available at [aledare.vercel.app](aledare.vercel.app)
+<!-- ===================== ABOUT ME ===================== -->
+## 🚀 About Me  
 
-- 📝 I regularly write articles on [https://medium.com/@jermaine73](https://medium.com/@jermaine73)
+I'm **John**, a passionate **Machine Learning Engineer** and **AI developer** who loves building intelligent systems and solving real-world problems using data.
 
-- 📫 How to reach me **jermainealedare@gmail.com**
+- 🔭 Currently working on **Machine Learning / Computer Vision projects**
+- 🌱 Learning more about **LLMs, MLOps, and AI deployment**
+- 🧠 Interested in **AI Research, Deep Learning, NLP, and Applied ML**
+- 📝 I write articles on **Medium**
+- 👨‍💻 My portfolio: **https://aledare.vercel.app**
+- 📫 Reach me: **jermainealedare@gmail.com**
 
-### Blogs posts
+---
+
+<!-- ===================== TROPHIES ===================== -->
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaykay73&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
+
+### 🤖 Machine Learning / Data Science  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
+</p>
+
+### 🧰 Tools & Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,flask" />
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 👁️ Computer Vision  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 📌 Featured Projects  
+
+🚀 Here are some of my key projects (check my pinned repositories for more):
+
+- 🤖 **AI/ML Projects** (Classification, Regression, NLP, Computer Vision)
+- 📊 **Data Science Projects** (EDA, Dashboards, Business Insights)
+- 🌍 **Deployed ML Apps** (Flask/Streamlit ML Deployments)
+
+👉 Visit my portfolio: **https://aledare.vercel.app**
+
+---
+
+<!-- ===================== BLOG POSTS ===================== -->
+## ✍️ Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+📌 Read more on Medium: **https://medium.com/@jermaine73**
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+## 🌐 Connect With Me  
+
 <p align="left">
-<a href="https://twitter.com/jermaine_73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jermaine_73" height="30" width="40" /></a>
-<a href="https://medium.com/@jermaine73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jermaine73" height="30" width="40" /></a>
+  <a href="https://twitter.com/jermaine_73" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://medium.com/@jermaine73" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:jermainealedare@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykay73&show_icons=true&locale=en&layout=compact" alt="jaykay73" /></p>
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykay73&show_icons=true&locale=en" alt="jaykay73" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaykay73&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykay73&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykay73&" alt="jaykay73" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykay73&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaykay73&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<h3 align="center">⚡ "Building AI solutions that make an impact."</h3>
