@@ -66,26 +66,6 @@ I'm **John Aledare**, a passionate **Machine Learning Engineer and Data Scientis
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaykay73&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaykay73&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykay73&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykay73&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📈 Contribution Graph  
 
