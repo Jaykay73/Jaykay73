@@ -118,13 +118,4 @@ I'm **John Aledare**, a passionate **Machine Learning Engineer and Data Scientis
 
 ---
 
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaykay73&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 <h3 align="center">⚡ "Obsessed with building the future."</h3>
