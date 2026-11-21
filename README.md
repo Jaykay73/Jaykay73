@@ -32,7 +32,7 @@ I'm **John Aledare**, a passionate **Machine Learning Engineer and Data Scientis
 - 🌍 Deployment using FastAPI, Docker & Cloud  
 - 📝 I write blogs to simplify complex AI topics  
 
-🌐 Portfolio: **https://aledare.vercel.app**  
+🌐 Portfolio: **https://jermaine.tech**  
 ✍️ Medium: **https://medium.com/@jermaine73**  
 📫 Email: **aledareoluwaseunjohn@gmail.com**
 
